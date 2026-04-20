@@ -1,6 +1,8 @@
 import os
 from dotenv import load_dotenv
 
+load_dotenv()
+
 class Settings:
     PROJECT_NAME = 'Spam or Ham Classifier api'
     API_KEY = os.getenv('API_KEY', 'demo-key')
