@@ -5,3 +5,4 @@ redis
 fastapi
 python-jose
 pydantic
+pandas
