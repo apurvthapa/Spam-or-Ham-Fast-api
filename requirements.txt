@@ -4,3 +4,4 @@ dotenv
 redis
 fastapi
 python-jose
+pydantic
