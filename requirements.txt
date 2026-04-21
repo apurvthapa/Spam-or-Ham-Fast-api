@@ -6,3 +6,4 @@ fastapi
 python-jose
 pydantic
 pandas
+prometheus-fastapi-instrumentator
