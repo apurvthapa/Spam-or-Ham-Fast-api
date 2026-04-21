@@ -4,6 +4,10 @@ dotenv
 redis
 fastapi
 python-jose
+python-dotenv
 pydantic
 pandas
 prometheus-fastapi-instrumentator
+uvicorn[standard]
+numpy
+redis
